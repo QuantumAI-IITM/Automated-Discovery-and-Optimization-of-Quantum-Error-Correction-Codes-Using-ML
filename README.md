@@ -20,7 +20,7 @@ Current Challenges in QEC
 
 
 How This Project Improves QEC?  
-✅ Automates QEC Code Discovery: Uses ML & RL to generate new QEC codes optimized for real hardware.  
-✅ Reduces Qubit Overhead: Uses AI to find low-qubit-count QEC strategies.  
-✅ Speeds Up Decoding: Uses ML to accelerate syndrome decoding for real-time error correction.  
-✅ Customizes QEC for Hardware: Optimizes QEC codes specifically for different quantum architectures.  
+🔹 Automates QEC Code Discovery: Uses ML & RL to generate new QEC codes optimized for real hardware.  
+🔹 Reduces Qubit Overhead: Uses AI to find low-qubit-count QEC strategies.  
+🔹 Speeds Up Decoding: Uses ML to accelerate syndrome decoding for real-time error correction.  
+🔹 Customizes QEC for Hardware: Optimizes QEC codes specifically for different quantum architectures.  
